@@ -57,8 +57,6 @@ def get_bean(bean_id):
         return bean.serialize(), 404
 
 
-@api.route('/bean/<id>', endpoint='get_bean')
-@api.doc(params={'id': 'An ID'})
 @app.route("/bean/<int:bean_id>", methods=["PUT"])
 def update_bean(bean_id):
     logger.debug("update_bean {}".format(bean_id))

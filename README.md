@@ -5,9 +5,9 @@ API Template with Flask and Sqlite3 database:
 
 - [x] Endpoints
 - [x] Creación de base de datos sqlite3 y queries.
-- [x] Separación de paquetes
+- [x] Configuración de logs
+- [ ] Separación de paquetes
 - [ ] Gestión de excepciones 
-- [ ] Configuración de logs
 - [ ] Tests
 - [ ] Documentacion swagger
 - [ ] Dockerfile

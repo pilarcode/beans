@@ -1,5 +1,5 @@
 # Proyecto Beans 
-
+![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)
 ## Descripción
 API con Flask y Sqlite 3 que se le pase un bean y se permitan operaciones CRUD.
 
